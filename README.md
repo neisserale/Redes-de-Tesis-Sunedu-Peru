@@ -23,4 +23,4 @@ Desarrollar un sistema analítico y de visualización para explorar y comprender
 * Correlacionar las áreas temáticas de las tesis con los objetivos de desarrollo sostenible y prioridades nacionales.
 
 
-![Comunidades detectadas](communities.png)
+![Comunidades detectadas](graph_analysis.png)
